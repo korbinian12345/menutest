@@ -84,7 +84,7 @@ body {
     height: 100%;
     width: 100%;
 
-    background-image: url(/images/menuimg/house.jpg);
+    background-image: url(images/menuimg/house.jpg);
 
     position: absolute;
     left: 0px;
@@ -105,22 +105,22 @@ body {
 
 #menu[data-active-index="0"] > #menu-background-image {
     background-position: center 45%;
-    background-image: url(/images/menuimg/house.jpg);
+    background-image: url(images/menuimg/house.jpg);
 }
 
 #menu[data-active-index="1"] > #menu-background-image {
     background-position: center 50%;
-    background-image: url(/images/menuimg/signs.jpg);
+    background-image: url(images/menuimg/signs.jpg);
 }
 
 #menu[data-active-index="2"] > #menu-background-image {
     background-position: center 55%;
-    background-image: url(/images/menuimg/deer.jpg);
+    background-image: url(images/menuimg/deer.jpg);
 }
 
 #menu[data-active-index="3"] > #menu-background-image {
     background-position: center 60%;
-    background-image: url(/images/menuimg/photograph.jpg);
+    background-image: url(images/menuimg/photograph.jpg);
 }
 
 /*content*/
@@ -214,3 +214,4 @@ main {
 .spacing {
     height: 50px;
 }
+
